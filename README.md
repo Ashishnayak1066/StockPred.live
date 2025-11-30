@@ -1,3 +1,1 @@
-# StockEngine
-
-Stock market analysis and prediction platform.
+# StockPred.live
